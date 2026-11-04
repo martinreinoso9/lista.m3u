@@ -1,0 +1,430 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wF3MmkGN/Punto-Play-1.png" group-title="🏆MUNDIAL FIFA 2026🏆",GLOBO SP
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b5DncQn1/Punto-Play-SBT.png" group-title="🏆MUNDIAL FIFA 2026🏆",SBT
+https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2bXsYbj/Punto-Play-UNIC.png" group-title="🏆MUNDIAL FIFA 2026🏆",UNICANAL opcion 2
+http://24.152.42.29:8000/play/a0bs/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69f7b4a43925e3.89026140.webp" group-title="📺  EVENTOS EXCLUSIVOS",Evento
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) Chrome/133.0.0.0
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-origin=https://www.lpfplay.com
+https://liveassets-b.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/152bea16-1ff0-4d9d-a52e-e5f36556de1b/master.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69f7b4a43925e3.89026140.webp" group-title="📺  EVENTOS EXCLUSIVOS",Evento
+https://static.videezy.com/system/resources/previews/000/052/459/original/HD-Bars-and-tone.mp4
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6a03435223bef7.57313535.png" group-title="📺  EVENTOS EXCLUSIVOS",Inter Miami
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gabito.site/
+#EXTVLCOPT:http-origin=https://gabito.site
+https://11gu3nu89fux.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69f7b43f604116.12378571.jpg" group-title="📺  EVENTOS EXCLUSIVOS",Moto GP
+https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6a03426523cad0.54725829.png" group-title="📺  EVENTOS EXCLUSIVOS",Nande Portetepe
+https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/america-ar.png" group-title="📺  ARGENTINA",AMERICA TV 2
+http://181.224.200.5:2277/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXbKc73z/logo-bayres-tv.png" group-title="📺  ARGENTINA",BAYRES TV
+https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w23453938.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/encuentro-ar.png" group-title="📺  ARGENTINA",CANAL ENCUENTRO
+http://miotv.cc:8080/live/Tino/Tino/409279.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5bbjySK/LOGO2.png" group-title="📺  ARGENTINA",LAPACHO TV
+https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f9133f27a7.18397801.png" group-title="📺  INTERIOR DE ARGENTINA",11 Chaco
+https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f978ba2039.96534684.png" group-title="📺  INTERIOR DE ARGENTINA",13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f5c6250866.33528637.png" group-title="📺  INTERIOR DE ARGENTINA",2 Posadas
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f5e5bc4765.31748366.png" group-title="📺  INTERIOR DE ARGENTINA",2 San Luis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://arcast.net/
+#EXTVLCOPT:http-origin=https://arcast.net
+https://stream.arcast.net:4443/sanluisctv/sanluisctv/chunklist_w1882365317.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f99e4c5cb6.18560200.png" group-title="📺  INTERIOR DE ARGENTINA",21 Posadas
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f6b33649c8.31840102.png" group-title="📺  INTERIOR DE ARGENTINA",3 TV Publica Pampeana
+https://stream.arcast.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978faf659c409.37619418.png" group-title="📺  INTERIOR DE ARGENTINA",34 San Juan
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f6d9f34900.33084133.png" group-title="📺  INTERIOR DE ARGENTINA",4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f6e6cd5773.55386966.png" group-title="📺  INTERIOR DE ARGENTINA",4 Misiones
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f704633327.21353569.png" group-title="📺  INTERIOR DE ARGENTINA",4 San Juan
+http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f71d9ab035.16351292.png" group-title="📺  INTERIOR DE ARGENTINA",5 Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f7458f8589.39042661.png" group-title="📺  INTERIOR DE ARGENTINA",5 Santa Fe
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f75c52c681.82375151.png" group-title="📺  INTERIOR DE ARGENTINA",5 Telesol
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978fb92ec4fb8.21616093.png" group-title="📺  INTERIOR DE ARGENTINA",50 NG Federal
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f76982ee43.45731375.png" group-title="📺  INTERIOR DE ARGENTINA",6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f7891fe297.53402437.png" group-title="📺  INTERIOR DE ARGENTINA",7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69a1ca857c9827.27086056.png" group-title="📺  INTERIOR DE ARGENTINA",7 Mendoza
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+#EXTVLCOPT:http-origin=https://vmf.edge-apps.net
+https://g3.vxral-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/canal7mendoza-100056_720p.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f79e83c0a8.12371542.png" group-title="📺  INTERIOR DE ARGENTINA",7 Salta
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f7af877361.70522830.png" group-title="📺  INTERIOR DE ARGENTINA",7 Sgo Estero
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBc9AtWFh60B53OTZdjQ_pRzVavsw4pxvsg&s" group-title="📺  INTERIOR DE ARGENTINA",8 La Rioja
+https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69ce0862d9cbe2.86377922.jpg" group-title="📺  INTERIOR DE ARGENTINA",8 Mendoza
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f7c67875b9.39300797.png" group-title="📺  INTERIOR DE ARGENTINA",9 Mendoza
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://serenotv.com/
+#EXTVLCOPT:http-origin=https://serenotv.com
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69e2327ec8a109.23009918.jpg" group-title="📺  INTERIOR DE ARGENTINA",9 Santa Cruz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://videocloud.instream.audio:2000/
+#EXTVLCOPT:http-origin=https://videocloud.instream.audio:2000
+https://5f700d5b2c46f.streamlock.net/canal9santacruz/canal9santacruz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978f3c45bd293.03075745.png" group-title="📺  INTERIOR DE ARGENTINA",San Luis+
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69f4cdb1a13b71.93528690.png" group-title="📺 Dsports",DSports
+http://veltixzone11.b-cdn.net/live/dtvsports1ec/s.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69f4cdb1a13b71.93528690.png" group-title="📺 Dsports",DSports 🇦🇷
+http://veltixzone11.b-cdn.net/live/dtvsports1arg/s.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="📺  TyC SPORTS PLAY",TYC SPORT (PLAY 1)
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="📺  TyC SPORTS PLAY",TYC SPORT (PLAY 2)
+https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="📺  TyC SPORTS PLAY",TYC SPORT (PLAY 3)
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="📺  TyC SPORTS PLAY",TYC SPORT (PLAY 4)
+https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="📺  TyC SPORTS PLAY",TYC SPORT (PLAY 5)
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6978da5e357ad7.80643667.png" group-title="📺  TyC SPORTS PLAY",TyC Sports Play 5
+https://d1ov8a29la3c5g.cloudfront.net/live/2025-07-31T13-29-38-531-03-00--Trist-n-Su-rez-vs--Gimnasia-y-Tiro--S-/2025-07-31T13-29-38-531-03-00--Trist-n-Su-rez-vs--Gimnasia-y-Tiro--S-.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/njgDHwJ/unnamed.webp" group-title="📺  TyC SPORTS PLAY",TYC SPORT (PLAY 6)
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/697928e248d135.77252478.png" group-title="📺  DEPORTE INTERNACIONAL",Barca TV
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/697927c00c8d58.09125879.png" group-title="📺  DEPORTE INTERNACIONAL",Dazn Ringside
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69dc573ead1004.82409322.png" group-title="📺  DEPORTE INTERNACIONAL",ECDF
+http://67.220.85.16/live/xkwgbq/s.m3u8
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/381e0e02-e3e4-4bf8-af7d-0751ec0cd395.png" group-title="📺  DEPORTE INTERNACIONAL",Fifa+
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69790078e92ce2.82202045.png" group-title="📺  DEPORTE INTERNACIONAL",Fox Tubi
+https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/3519342e-d891-46ef-923e-27b698550a13.jpeg" group-title="📺  DEPORTE INTERNACIONAL",Inter 24/7
+https://amg27604-amg27604c1-amgplt0165.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0165/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Real_emblem_6.png" group-title="📺  DEPORTE INTERNACIONAL",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043156/rmtv-en-mob/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cf356519-2a5a-4d5e-9737-e133f5c5a5c8.jpeg" group-title="📺  DEPORTE INTERNACIONAL",Red Bull TV
+https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="📺  DEPORTE INTERNACIONAL",Top Barca
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69c88318a51a63.57640053.webp" group-title="📺  DEPORTE INTERNACIONAL",Tudn
+http://185.56.109.251/Tudn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69c88318a51a63.57640053.webp" group-title="📺  DEPORTE INTERNACIONAL",Tudn**
+http://38.68.134.207/live/ry6utrh/s.m3u8
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.cz3dWFe5nyXVR46GXjNdegHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="📺  CINE & SERIES",Grjngo
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg" group-title="📺  CINE & SERIES",PARAMOUNT opcion 2
+http://181.224.200.5:2277/play/a0df/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQxmrfgs/canales-azcorazon.png" group-title="📺  NOVELAS",AZ CORAZÓN
+#EXTVLCOPT:http-user-agent=Magma Player/8
+http://magmaplayer.com/stream/m3u8/ZGR5KmL2KmR0BP4lAQLhZGtjYwD3KmR3AQZkAj/hls/66.m3u8
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/10/57/ee810ae644028eb1793e34aeeb1f/logo-uno.png" group-title="📺  NOVELAS",AZTEZ UNO
+https://stream.ads.ottera.tv/cl/260325d720rg0k2k66gpnhtg20/1280x720_2891216_0_f.m3u8?i=728_4833
+#EXTINF:-1 tvg-logo="http://eltopcolombia.com/wp-content/uploads/2022/05/unnamed-30.png" group-title="📺  NOVELAS",Canela
+https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8?rights_holder_id=novelas-turcas&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e7a5e4a-779f-4c37-abbd-b5cf77b4407c&url=https://canela.tv/player/channel/novelas-turcas&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
+#EXTINF:-1 tvg-logo="https://i4.hurimg.com/i/hurriyet/75/600x338/5dbd043ed3806c1dec53824d.jpg" group-title="📺  NOVELAS",Kanal Drama**
+https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8?rights_holder_id=vive-kanal-d-drama&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e5adb91-3380-43f4-afa6-574df288f505&url=https://www.canela.tv/player/channel/vive-kanal-d-drama&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="📺  NOVELAS",LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://capitalgroupenterprises.com/wp-content/uploads/2025/01/Somos-Novelas.png" group-title="📺  NOVELAS",SOMOS NOVELAS
+https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="📺  NOVELAS",Todo Novelas
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBC43000013T
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/laislaelreality/images/2/27/Tv_azteca.jpg/revision/latest?cb=20140911045925&path-prefix=es" group-title="📺  NOVELAS",TV AZTECA
+https://azt-cl.otteravision.com/azt/cl/cl.m3u8
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bc94df36-c17c-4496-a6f1-39bd133ddc49.jpeg" group-title="📺  COCINA",A bocados
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=cooking&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_abocados_ssai&ads.gam_correlator=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6979&ads.rakuten_streaming_id=72000a0d-9249-495a-bf08-c739ea1bb1c9&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883131&ads.xumo_contentId=2459&ads.xumo_contentName=IndigeniusBonViajeSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2459&ads.xumo_providerName=a-bocados-spa-rakutentv&ads.xumo_streamId=88883131
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg" group-title="📺  COCINA",Gusto TV
+https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=cooking&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=7&ads.rtv_content_id=4114&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=eb8aba18-b506-4b0e-9158-6314eb4d3397&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=858
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/ENLACE.png" group-title="📺  RELIGIOSOS",Enlace
+https://livecdnusa.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318990468290646016/D65h3HYF_400x400.jpg" group-title="📺  RELIGIOSOS",JTA TV
+https://streaming.jtamendoza.com/hls/test_hd720.m3u8
+#EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png" group-title="📺  RELIGIOSOS",Kingdom TV
+https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzyN2BxQ/advenr.jpg" group-title="📺  RELIGIOSOS",Red Advenir
+https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/UNIFE_logo.png" group-title="📺  RELIGIOSOS",Unife
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://mediastore01.playme.com.ar/dash/CH_UNIFE/playlist.mpd?csi=38643530373638662d373365342d343433652d383737302d333562396338303765363433235745422331373538343839333430
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="📺️  RADIOS ONLINE",AM 910
+http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
+#EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/3122362/3122362-1580218872264-2cee0c2f48c84.jpg" group-title="📺️  RADIOS ONLINE",Beats Radio
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:-1 tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/blue-fm-100-7/play_250_250.webp" group-title="📺️  RADIOS ONLINE",Blue FM 100.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/RkjIuCskfUzr4PFSjEE3I54CX074c1Z5EUuBe1ij8uhYrYWyfFC8-xh3rJutiU_0eCWxxkS0JA=s900-c-k-c0x00ffffff-no-rj" group-title="📺️  RADIOS ONLINE",Cadena 103
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5IE-yamV2Aiu90jKd9YZMN4jvdGiO2B2yN3hWGA8xUiLcBnOkPHwCxRUr99WfDD3t8Pf" group-title="📺️  RADIOS ONLINE",Cadena Alegria
+https://srv10.streamingradio.ar:8014/stream?type=http&nocache=22
+#EXTINF:-1 tvg-logo="https://www.cadena3.com/img/conductores-placas/generica.jpg" group-title="📺️  RADIOS ONLINE",Cadena Tres
+https://liveradio.mediainbox.net/radio3.mp3
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/697904adbbcf98.82251040.png" group-title="📺️  RADIOS ONLINE",Con Vos
+https://server1.stweb.tv/rcvos/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-del-sur/fb_cover.jpg" group-title="📺️  RADIOS ONLINE",Del Sur
+https://cdn1.tvlin.net/icecast/radiodelsuraudio/icecast.audio
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RDV_F.png?raw=true" group-title="📺️  RADIOS ONLINE",Del Valle 99.1
+https://streaming.radiosenlinea.com.ar/8552/stream/1/
+#EXTINF:-1 tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-disney/fb_cover.jpg" group-title="📺️  RADIOS ONLINE",Disney
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/697904be1e8df0.57728075.png" group-title="📺️  RADIOS ONLINE",DSports Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/697904cfe512c4.46489832.png" group-title="📺️  RADIOS ONLINE",El Destape
+https://ipanel.instream.audio/8004/stream
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SGbp_nQT2GVKBwNwgaGOSxUJxEBkNYLmm8QlMOwHtu_CCcEBO-Y2rdb9z9Rzikn5uHzM" group-title="📺️  RADIOS ONLINE",Estacion 21
+https://server.laradio.online/proxy/jorge_benitez?mp=/stream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/FM_C%C3%B3rdoba_91.9.jpg" group-title="📺️  RADIOS ONLINE",FM Cordoba
+https://liveradio.mediainbox.net/fmcordoba.mp3
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/d5/ba/d5ba149726ecc1db33a41e1e9c802959.jpg" group-title="📺️  RADIOS ONLINE",Good 101.1 FM
+https://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cloudfront-arc.cienradios.com/la100/logo/logoog.png" group-title="📺️  RADIOS ONLINE",La 100
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69dd2a056021e1.24734593.png" group-title="📺️  RADIOS ONLINE",La Elegida
+https://stm.gmpro.top:7036/stream
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69dd2983a13d71.51079915.png" group-title="📺️  RADIOS ONLINE",La Elegida FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerv.gmpro.top/
+#EXTVLCOPT:http-origin=https://playerv.gmpro.top
+https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8?hls_ctx=i4hi6fue
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="📺️  RADIOS ONLINE",La Red
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
+#EXTINF:-1 tvg-logo="https://lu5am.com/wp-content/uploads/2022/05/lu5-150x150.png" group-title="📺️  RADIOS ONLINE",LU5 de Neuquén
+https://live.lu5am.com:8443/LU5?type=.mp3&_=1
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/697904e745d375.40030670.png" group-title="📺️  RADIOS ONLINE",Mas Tropical
+https://streaming2.mundoradio.com.ar/8512/stream
+#EXTINF:-1 tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/mia-fm/fb_cover.jpg" group-title="📺️  RADIOS ONLINE",Mia
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM1041_56AAC.aac
+#EXTINF:-1 tvg-logo="https://static-c4-1.s3.amazonaws.com/assets/img/logos/radiomitre-logo-500x353.png" group-title="📺️  RADIOS ONLINE",Mitre Jujuy
+https://5cd577a3dd8ec.streamlock.net/radiomitre/live_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.argentina.gob.ar/sites/default/files/2022/07/web-smycp_nacional01_3.png" group-title="📺️  RADIOS ONLINE",Nacional
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6979065d5c3583.06718740.png" group-title="📺️  RADIOS ONLINE",Pop Radio 101.5
+https://popradio.stweb.tv/popradio/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69790669bdce61.25610419.png" group-title="📺️  RADIOS ONLINE",Popular
+https://liveradio.mediainbox.net/popular.mp3
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/697906780afa67.49197975.png" group-title="📺️  RADIOS ONLINE",Punto de Encuentro
+https://radio16.servidorderadio.net:8662/stream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo-radio10.svg/120px-Logo-radio10.svg.png" group-title="📺️  RADIOS ONLINE",Radio 10
+https://radio10.stweb.tv/radio10/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_rivadavia_630.jpg" group-title="📺️  RADIOS ONLINE",Rivadavia
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="📺️  RADIOS ONLINE",Rock & Pop
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6979068a35dd39.86918651.png" group-title="📺️  RADIOS ONLINE",Señal de Vida 99.9
+https://radiosonline.grupokairos.net.ar/9026/;
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/697906a2a53c79.66589799.png" group-title="📺️  RADIOS ONLINE",Vale 97.5
+https://vale.stweb.tv/vale/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jh9nXPP/venus-media.png" group-title="📺️  RADIOS ONLINE",Venus Media
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="📺  INTERNACIONALES",BBC News
+http://103.213.31.109:90/BBCNewsHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="📺  INTERNACIONALES",CNN EN ESPAÑOL
+http://200.125.170.122:8000/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.cdn.turner.com/cnn/2017/images/08/16/cnni.logo_t1.jpg" group-title="📺  INTERNACIONALES",CNN INTERNACIONAL 2
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4MrSOuQGmeU/hqdefault.jpg" group-title="📺  INTERNACIONALES",EL PAIS
+https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png" group-title="📺  INTERNACIONALES",TELEMUNDO 2
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69fe7761564133.99423369.jpg" group-title="📺 EVENTOS DISNEY",Disney 1
+http://177.53.152.117:8000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69fe7761564133.99423369.jpg" group-title="📺 EVENTOS DISNEY",Disney 2
+http://177.53.152.117:8000/play/a07h/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69fe7761564133.99423369.jpg" group-title="📺 EVENTOS DISNEY",Disney 3
+http://177.53.152.117:8000/play/a07s/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/69fe7761564133.99423369.jpg" group-title="📺 EVENTOS DISNEY",Disney 4
+http://177.53.152.117:8000/play/a07e/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest/scale-to-width-down/1000?cb=20130819193813" group-title="DEPORTES ESPN",ESPN 2 OPCION 2
+http://181.224.200.5:2277/play/a02c/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" group-title="DEPORTES ESPN",ESPN 3 OPCION 2
+http://181.224.200.5:2277/play/a02g/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="DEPORTES ESPN",ESPN 4 OPCION 2
+http://181.224.200.5:2277/play/a02o/index.m3u8
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/small.ESPN5.png.31b1c1badbe398c829e754a930a931cd.png" group-title="DEPORTES ESPN",ESPN 5 OPCION 2
+http://181.224.200.5:2277/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="DEPORTES ESPN",ESPN 6 OPCION 2
+http://181.224.200.5:2277/play/a02h/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="DEPORTES ESPN",ESPN 7 OPCION 2
+http://181.224.200.5:2277/play/a02l/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/featuredImage_1749841167282.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="⚽ 🥅⛳🏎️🏇🏻DEPORTES VARIADOS",FIFA+
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurFf_9P_V83xyrlFFGGlIcAG5YUpmQFYRbxH0OihTRjAS8JE0oMigzUXAbdpQuoZkGJY&usqp=CAU" group-title="⚽ 🥅⛳🏎️🏇🏻DEPORTES VARIADOS",PLUS + TV
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYHrVXBx/download-2026-03-12T134729-824.jpg" group-title="⚽ 🥅⛳🏎️🏇🏻DEPORTES VARIADOS",TUDN SPORTS
+http://aztkplay.pro:8080/live/An28Mi46/Q4FqDT6VyU/319544.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDX3WH6k/Win-Sports2018.png" group-title="⚽ 🥅⛳🏎️🏇🏻DEPORTES VARIADOS",WIN SPORTS
+#EXTVLCOPT:http-user-agent=Magma Player/10
+http://138.121.12.126:9000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6979009e864eb6.34730223.png" group-title="🎾🏓DEPORTES, TENNIS, PADEL, NBA, GOLF🏌‍♀️",Tenis
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe.png" group-title="🎾🏓DEPORTES, TENNIS, PADEL, NBA, GOLF🏌‍♀️",World Billiards TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5XrNyjB/image-7.jpg" group-title="🏁DEPORTES MOTOR🏎",DAZN F1
+https://tvorb.net/ZTV/6918-live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pMCYd9G/Picsart-26-04-15-13-34-15-590.png" group-title="🏁DEPORTES MOTOR🏎",GPTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE].m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S42qWG8Z/Clasi.png" group-title="🏁DEPORTES MOTOR🏎",MI COCHE CLÁSICO
+https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpRsNLpc/Picsart-26-04-15-00-41-24-258.png" group-title="🏁DEPORTES MOTOR🏎",MOTOR SUR
+https://edge.enhdtv.com/8116/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CNLKVVk/mos.png" group-title="🏁DEPORTES MOTOR🏎",MOTORSPORT🚗
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&coppa=0&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZt2vYbY/Picsart-26-04-15-11-25-23-215.png" group-title="🏁DEPORTES MOTOR🏎",NASCAR
+https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mSsCnv2/Picsart-26-04-15-13-24-42-448.png" group-title="🏁DEPORTES MOTOR🏎",RALLY TV
+https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YF3VxdxN/Picsart-26-04-15-13-37-11-905.png" group-title="🏁DEPORTES MOTOR🏎",SPEED SPORT
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/d7755b9a-5d95-4d1c-8615-d061c709ea2d.jpeg" group-title="🏁DEPORTES MOTOR🏎",Fuel TV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e99fd425-48f6-4ced-b550-a9faca315a4d.jpeg" group-title="🏁DEPORTES MOTOR🏎",Racer International
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryRD97zL/a7691067-f886-417f-a3c6-a8627a1ab405.jpg" group-title="🏁DEPORTES MOTOR🏎",Rally TV
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MGq0gyX/hard-knocks.webp" group-title="🥋DEPORTES DE COMBATES🥊",HARD KNOCKS
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ychkPS6K/https-i-cdn-trutv-com-assets-tru-prod-images-2025-09-HBOBoxing-1600x900.jpg" group-title="🥋DEPORTES DE COMBATES🥊",HBO BOXEO
+https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_channelId=99951469&ads.xumo_streamId=99951469&ads.channelId=99951469&ads.channelName=WBDHBOBoxing_us&ads.caid=WBDHBOBoxing&ads.csid=xumo_web_WBDHBOBoxing_ssai&ads._fw_coppa=0&ads.xumo_contentId=4315&ads.xumo_contentName=WBDHBOBoxing&ads.xumo_providerId=4315&ads.xumo_providerName=WBDHBOBoxing&ads._fw_ifa_type=&ads._fw_did=46cdfd64-e3bb-48cb-a44c-2805a97765f0&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5QjmkY0/lk795c1545411843.png" group-title="🥋DEPORTES DE COMBATES🥊",ONE CHAMPIONS
+https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_streamId=99951530&ads.channelId=99951530&ads.channelName=C15OneChampionship_us&ads.caid=C15OneChampionship&ads.csid=xumo_web_C15OneChampionship_ssai&ads.genre=Sport,Sports,SC&ads._fw_content_genre=Sport,Sports,SC&ads._fw_coppa=0&ads.xumo_contentId=4403&ads.xumo_contentName=C15OneChampionship&ads.xumo_providerId=4403&ads.xumo_providerName=C15OneChampionship&ads._fw_ifa_type=&ads._fw_did=81b487a8-3485-4f6f-a425-b20249bad741&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" group-title="🥋DEPORTES DE COMBATES🥊",PFL MMA
+https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67T1kgch/uffc.png" group-title="🥋DEPORTES DE COMBATES🥊",UFC
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/0a96318f-fb4e-444c-950b-91f0524ca77c.jpeg" group-title="🥋DEPORTES DE COMBATES🥊",Glory Kickboxing
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1.jpeg" group-title="🥋DEPORTES DE COMBATES🥊",P.F.L. MMA
+https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sanluisctv.com.ar/assets/images/logo-sl-ctv-2-240x240.png" group-title="📺  INTERIOR DE ARGENTINA",2 San Luis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://arcast.net/
+#EXTVLCOPT:http-origin=https://arcast.net
+https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MgwYDwQ/logo-pag-22.png" group-title="📺  INTERIOR DE ARGENTINA",4 Posadas
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wqC28g5axDfQhkUhcALzgqvyF8bCwyCr06knFxa0FS0d0zy5lQG_9uC_ZQu-HJ-f9oXdFr4QJjGPZAUscuEwSQ" group-title="📺  INTERIOR DE ARGENTINA",7 Salta
+https://vivo.solumedia.com:2020/canal7salta/canal7salta.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="📺  LPF PLAY",(PLAY 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-origin=https://play.tycsports.com
+https://emitiendoenvivo.com:443/lpf/1.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="📺  LPF PLAY",PLAY 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-origin=https://play.tycsports.com
+https://emitiendoenvivo.com:443/lpf/2.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="📺  LPF PLAY",(PLAY 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-origin=https://play.tycsports.com
+https://emitiendoenvivo.com:443/lpf/3.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="📺  LPF PLAY",PLAY 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-origin=https://play.tycsports.com
+https://emitiendoenvivo.com:443/lpf/4.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="📺  LPF PLAY",(PLAY 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-origin=https://play.tycsports.com
+https://emitiendoenvivo.com:443/lpf/5.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="📺  LPF PLAY",PLAY 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-origin=https://play.tycsports.com
+https://emitiendoenvivo.com:443/lpf/6.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="📺  LPF PLAY",(PLAY 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-origin=https://play.tycsports.com
+https://emitiendoenvivo.com:443/lpf/7.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="📺  LPF PLAY",PLAY 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-origin=https://play.tycsports.com
+https://emitiendoenvivo.com:443/lpf/8.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="📺  LPF PLAY",(PLAY 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-origin=https://play.tycsports.com
+https://emitiendoenvivo.com:443/lpf/9.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="📺  LPF PLAY",PLAY 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-origin=https://play.tycsports.com
+https://emitiendoenvivo.com:443/lpf/10.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="📺  LPF PLAY",(PLAY 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-origin=https://play.tycsports.com
+https://emitiendoenvivo.com:443/lpf/11.m3u8
+#EXTINF:-1 tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/9ac81436-28e2-4e50-9775-e69dc8192797.png" group-title="📺  LPF PLAY",PLAY 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-origin=https://play.tycsports.com/
+https://emitiendoenvivo.com:443/lpf/12.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHsyq36G/descarga-6.jpg" group-title="📺  DEPORTE INTERNACIONAL",Bein Sports Extra Ñ
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://foxone.asset.viewlift.com/images/2025/12/01/fox-tubi-logo-1764604643459.png" group-title="📺  DEPORTE INTERNACIONAL",Fox Tubi
+https://amg00733-tubi-amg00733c2-tubi-us-8155.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.cz3dWFe5nyXVR46GXjNdegHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="📺  CINE & SERIES",Grjngo
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/iLusoR_ZTaY42j1sndiQnyKOTk48R2VMkg0mK6r-yjXaqP8wttXbrMPswQxjY9wiDSh0Zg2JEztUmJBQsUv2gw" group-title="📺  NOVELAS",Canela
+https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TVFBq72/turcas-logo-3203466-C6-C-seeklogo-com.png" group-title="📺  NOVELAS",NOVELAS TURCAS
+https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j80Rjhd/MJzuRAN.png" group-title="📺  NOVELAS",RCN MÁS+
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50" group-title="📺  COCINA",Tastemade
+https://amg00047-tastemade-amg00047c6-plex-us-2274.playouts.now.amagi.tv/tm-es16us-xumo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/ENLACE.png" group-title="📺  RELIGIOSOS",Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318990468290646016/D65h3HYF_400x400.jpg" group-title="📺  RELIGIOSOS",JTA TV
+https://streaming.jtamendoza.com/hls/test.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzyN2BxQ/advenr.jpg" group-title="📺  RELIGIOSOS",Red Advenir
+https://streamer1.streamhost.org/salive/GMIredadvenirh/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/UNIFE_logo.png" group-title="📺  RELIGIOSOS",Unife
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/FM_C%C3%B3rdoba_91.9.jpg" group-title="📺️  RADIOS ONLINE",FM Córdoba
+https://liveradio.mediainbox.net/fmcordoba.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDwYSzQw/69dd2a056021e1-24734593.png" group-title="📺️  RADIOS ONLINE",La Elegida FM
+https://stm.gmpro.top:7036/stream
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3QzdCWt/69dd2983a13d71-51079915.png" group-title="📺️  RADIOS ONLINE",La Elegida
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerv.gmpro.top/
+#EXTVLCOPT:http-origin=https://playerv.gmpro.top
+https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8?hls_ctx=i4hi6fue
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jh9nXPP/venus-media.png" group-title="📺️  RADIOS ONLINE",Venus Media
+https://copacogen.desdeparaguay.net/venusmedia/venusmedia/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Globo_2025_Vector.svg/revision/latest/scale-to-width-down/50?cb=20260528153050" group-title="📺  INTERNACIONALES",TV GLOBO
+https://live.mediapro.com.br/hls/bh-globo/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Newsmax2_vertical_logo.webp/revision/latest/scale-to-width-down/50?cb=20250720212236" group-title="📺  INTERNACIONALES",Newsmax 2
+https://amg00217-newsmax-amg00217c4-plex-us-9039.playouts.now.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAAAiCAMAAACePYwXAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHyUExURfNvaPFiWvNya/eppfN3cPJkXPFjW/JuZvaYk/itqfR7dfm+u/einfJlXfBMQ+9JQPBORPNsZfm7uO9COe9ANvJoYPBWTfBQR/SFf/aXkvJmX/izr/SAefWOiPJuZ+9DOfeinPFeVvrKx/zd2/JsZvBXT/rPzPFdVe9COPiyr/iuqvnAvO9EOvvU0vvR0Pejn/vY1vejnvrDwfJjXPnDv/nCv/BVTPvS0O9AN/SDf/JpYfaZlPaalfi1sfadmPm5tfzc2vvV0/ekn/vPzfeZlPiqpvvX1vNzbPekoPWTjfBORfJsZfrMyvefmvNyavFaUvi0sPWHgfR9d/WJgvNxavN4cfR8d/rMye9BN/WPifJwavaUj/ehm/BGPfm/vPrNyvFbU/rGw/N0bfFcU/SGgO9KQfJvZ/FZUPisqPBNRPm4tfiwrPBTSu9IPu9LQfaWke9FPPrDwPrPzfSBevaemfJmXvvT0fBRSPBXTveuqvvb2fzb2fSHgPaWkPJrY/rFw/rRz/nFwu9AOPJnX+9HPfR9dvWNh/ze3Pm5tviuqfFXT/FaUfBLQvJlXvrHxPainfWLhfFiW/m3tPWKhPN6c/R+ePJtZu9FO/ve3e9FPfN1bveinvN2cPFqYvegm/zf3feqpfrEwf/+//7+/v79/gAAANL6At0AAACmdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wBGa60oAAAACXBIWXMAAAsRAAALEQF/ZF+RAAADKUlEQVRIS+2UZ1sTQRSFIwgoEo2SqCiKFRFjl4A0FWzEgl3sBcWOvQJ2ULH33gj3f3rvmbuzhcCjj/jN90PmnTOTOZtNNiEiCg3xk8FZ5tAsnaUjO2cY7xme7SUrdwRnIC88cpRDZPQYkpL8qJ8Y0VjV/hlHNF7VUmA6JujUYaKUqFsKKaw2EJNospqlCB1TdGaZyiXT1C0F01UGZAbNVHMplpJZOrGUcMlsdUvpHJUByaC4mstcKQne/WicS+bND0ALFv4Gi0jFg3SYu794iVCG60jIdzK4lFfIwUvNRDRaySWlVX6qqabaQ1XtMtmuiy7LV2Cow2H1K4VVoqtRsqZGWIuSBi5JwFyStE7NIVlO61Vd6jdgCKOkAb4RngV3SchzUqQThzAVqlkaaZOaJZ82Y9yCg3PhW+G0DROH7fy0931MdtDOJlUL1apYdtFu3Jc9ONdc/V54tf+q9+3nkgPGGw865BEdOtysk0YsVtARjEc1bW4pJTqG6DgOPgE/KXoKejohnBFt5ZIahPwvkR6s5lMOxrMagnOIzsOh0QuiMbEmpHQRMZdcglw2aR+uYPUqXcN4XVOAJHpDtM044ohYK1QvjUvaIdEiS1tHXI0xj+9NfbpvmfeC20jMwXegcfhdaOweE7tv4hC1iHihThWXLr3sBzjG8BDJSPgjeDccPwcvj7mkW93hCT1Vc3lWbEacojxHkg3vgLfAS+AeXnBJ8G/uJSXVLF30CmMEpyivEb2Bv4W3w9/BXd5/kJIAnfRRzRD5VEb0GVqJU5QviMxj8hX+Df7df2uS/PMb/D9Ifsp+1Dlk/pTgX5T04X/JHxHqcSG8CHamIGR0KvincGxRQQp40m9JyrMvhdD7TsY3dc42m/w7/6pER4DddlNgo/lOYEyvSYHnbRbEKjjJzryXpCVYEjMlNhJx8M6wyFhF6FlgJFJ6ZaKfns2W9DqJhVIqDBYZqwg9C+TdbUo0hwVLUkCW8OKDg7QlIt4Sz502hwRvF0aIpKYy7ffe37fAo3+pvxL0S6ogZHQKAjO8OHt8S3yJaUsQyIuCkNGp4J/C7U/Nt9RDRL8ADwqhXlTcTagAAAAASUVORK5CYII=" group-title="⚽ 🥅⛳🏎️🏇🏻DEPORTES VARIADOS",ESPN 8 THE OCHO
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho_5.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAZCAYAAAEEU03SAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7CARUoSoAAAAgaSURBVEhL3VdrbBXHFZ6d3bt7fW1jg20F2zEQ3o2LK8fYUUoCwhCHJlWAuEVUDSYitHFQkypNC2miqC/a4iqBtkqqUgohVaL0B2rVRqhCEQlEbVolPEyhVLINjgPXMQ8/r32vd3d2p99Zz5pr7FzXVX71k47Oc2bOzJ55LBPCXSeEeIRNAC4lW+j73m9t2/YRuEbZmeu6l5U4gjOrt+b+o+qxmFKZoTi7Nrvq0PXTHTJpzyD1y4HRcZzjgXAzaBz03UWy53mLiCP4CPEAZ+sack8ufzxXqYwrzvL+1X6QN3ceUGqQ4rfRBUfzD13HGZsu4FWt9EV0j6fUEaDRDmqk5Mto3Dcyd/EQ5KNBkALiNCWOhVtQ4bc+/QN5qqhWnok9ID/af1gq1w0gpWOu67yl1MlBaYQcqbQFRoWedZVPybJGWrpOZRpZGQrWdV5MMkZ8hnSiaYc+eLu9sJrs+eQLEI5AoBHCYMjJ0Oe4zhXiGOnNcbP/5/L6HC02nfvSZG6S+wO9Kbv23H5XuW98rBBFX9+YyHmvpd/sdfqn1VUlcs8P2MoVYMwIF+9cuSQaT34v6cZYysnyU24WS5QVvrDq33vfVyGUl7M9zDst/3Z8wG8h56dV2Cei88mGXHdF3bhqSQfXVGKc802grSRLKWeDtoMex4C+cN1nyU4JoFKyYBMqGTvac2eEnbnXQ0K7oRMO+b6fh7hgAyHZhaMzCcsxBBp9jAbB18EnfY5s4SDwvQKfR3oQrAB7Sokk71P8EarhaaBgn6UDtllEJCOwHhnNh76YdMgVrnAfRsaju5yADDThik1KHd2/E2+SNKRuqRTSMbgtIszxTCbQr/AiIIO5foR5TAcZrIK9Ma6CQnyig3BpWV1lRPicaZ42+NnSlL9rywUHsqczzfz5pgvy3kWD/oPlAw4fv0/ToWG96QgwECY1TevQdb0RBTC6tp8K6OPdTFjLHBTET1RIRiRrK1Pd9Q0ZVyRwYgbdlmXxCEA6Bnne9+UzJGeCd3e5n9U5z8o/VibiS3+9EYUweh6nI8zAQgVt8DzxF1Iw6N+Jw1ZHM1PyOyhbF5XVFM7Yf6f5u8MDi0V31Syj6L0t98N3ALQZsQepDQFVuGfccmGZDpNzRHZXEQ+CXfdt28b5hc0JeSeyjqBDs6365RLyY8NasE1XsY8Rh25RuQedoeFVMqZDDVKbNshxyMITYh7iO5X/9SAYEI4bDQchwPc86E8kZ/5gnJ8gjhmgvX+Phl0lPK8VpotYUhvnTwH5Ccm+ARvHUKlSCWslkx8GEu1i0NxASQNsC4hjuqXIaCNKLgbbPHAd+pdgvysITANsK0FBO7wSgiIiTLrj369eE4nmTLN4NI/7Hh4Z3NR8oeHS8HwmdemkhFzWvDepwidExkFal9bePeti/7sOjhBHmMzxTcwQso+jhI4YOXKs9BSaLy+//rsnVLNxGHPA3YzCnsSPe/d9X9MKpjP/HJbXsph9+QrjGCg6p5i1vvQHVtZwP9N3v5WtmkwIXfEJ8UOz4MCw5/UY+/5oCMm7nbMdw35Xv+CW1T10uFmyjn5dSn0g0dp17NXhs2NeKOnIuFzXbqv8PZYHZ2REcz3Ddz1TCqFLyHQCSw8nsh2NDi7vfu1R1WRCaKiU7SjPXUqfEJxr7VzjD+mGcUaZPjWcaljDy4b7fsb8vL6iQ0d2KvOUMWYi2F/9Oud1EOl+yPOl/Ap8W8hHgG8zHLtgK0Zsu2ma85Rryji/bW0s1jdUks0KZ+dfuH6E2zN643LmClvmJ8WtMzoXvvkEx60zrMInBR0q6Zeag9mcxMqfAB1FR9uQcPDaJmBi6S8BiQnRaXU76DOgPGWnY7FE2eYrE50f5TgLvoG/hB3gDUUFC+pvuSxfzLnId+pX5mtafH5OYbx0T0nbzKZY/4wKtL0OGj0JJwV9ETpOM5NDx/QHSMZEfBfZoLdCXh3G0DNYdanuhKCdizZ30N2g2pyE7yD4aRCuBrehdf3eWG/Ri4lE/m9aWqpf0jDJFaB1uG9S4F8FrccltwiT4rCdQJsNapgA0HeDfjlmIuh8CAnRHfAsGu0A34xEbgeNbljYwom0QQ7uGqWnT+SostNEiuCLh3EgD/olxDTBN+FVjRyi8Kdu/iKInw7fNXzVOaTTJBH31yA/CDvCQTDAVRgz3mGIDy5Emgg6WkZfS+kn0PZzsG2AnFJ94nrzsmFrRFKFdA3hUp0Dv/pi9ke7f9o0bjx32KYvP4Q2wf9mOtBXNXwt6LcMix2n/gMHjMEXwdP8v5yI006x4BdGdHcT2gU/SaofG7bjqj+8a9wvgreG/htxTjOeCuPu4hDoowkxLeCv4q3zHWUOAFvjSN9iiTL9/2DSB8RkaC+/55vZ/c5zvmC5nqTfB12jS8yXGkjHCQaOwxF7FS+ngEufOIbGbYoYjleJxoShpwaLrfV1La+8q7qeEjJe7ZMhvqhmV8nVoR+JbQ9na+faDL3u84Y0TUOvKTesR9fST5LBK24zshvWGOLjbiP2QA3k1YbX1WdEly4w8r+2ypApO2JWzY3IU/GoHrXk/sTpP6vup4SM+yETOu+rt/JSbiNdQsNFecyrrcIDtYelKucyvXIxG37qF8z6Qg0bPPw3Jq71MI53tJ9lsp4n97LcrasYqyhlcmYuc7J0Zt0xm/maxJ+mHPN7OxX8z6V1acldjbd2JX5F5SFUCVFpkSzwrHTBJUpMUmkFMmceSKAIAplsWEcPKVDppUw92Vccqbmv4+B5NcQUwNh/AAEsh5xoXuQyAAAAAElFTkSuQmCC" group-title="⚽ 🥅⛳🏎️🏇🏻DEPORTES VARIADOS",PLUS+ tv
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAM1BMVEXs9PLs9PLs9PLt9fPz9vmo4bRl0Hd31IeI2JaW3KPs9PJZzm1hz3O/58nk8uvs9PLX7t4wzV82AAAAEHRSTlO916X/////////5v/////0ZYQIyQAAAN5JREFUeAFtzQkOwzAIRFGng7eCE9//tDWIOqHq14b0kCalQ0tH2r3Sy0sH6H8A0kG51G+tNq/3RkhvylykrKSIZxcrYlRm05gYgjByfLhRIzpHjw837oeyHxQvnES/DyKO1KWP+DBHE2ZHYS76oHR+HzIMbUQfBmKOFivOAdqIB54AdeaaJyigRgvrWhDmlmfEvvDkYgkXutEnh6FWI9qkuEnEqpNlZwhHzjYZkZqEyf+I52RECZO/qJOTt4kjy4qnTYp2I3LXGla5tVa9ZghagaDRIyAdq7d2vS8Ldx/jHhM952atggAAAABJRU5ErkJggg==" group-title="🎾🏓DEPORTES, TENNIS, PADEL, NBA, GOLF🏌‍♀️",Tenis
+https://amg01444-tennischannelth-tennischde-samsungat-p3jwq.amagi.tv/playlist/amg01444-tennischannelth-tennischde-samsungat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MGq0gyX/hard-knocks.webp" group-title="🥋DEPORTES DE COMBATES🥊",HARD KNOCKS
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
