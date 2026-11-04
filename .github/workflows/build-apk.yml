@@ -1,0 +1,38 @@
+name: Compilar Moncho Player
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'android/**'
+      - '.github/workflows/build-apk.yml'
+permissions:
+  contents: read
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: android-actions/setup-android@v3
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.9'
+      - name: Compilar y revisar
+        working-directory: android
+        run: gradle --no-daemon assembleDebug lintDebug
+      - name: Comprobar permisos del APK compilado
+        run: |
+          "$ANDROID_HOME/build-tools/35.0.0/aapt" dump permissions android/app/build/outputs/apk/debug/app-debug.apk > permissions.txt
+          cat permissions.txt
+          if grep -E 'REQUEST_INSTALL_PACKAGES|INSTALL_PACKAGES|REQUEST_DELETE_PACKAGES|RECEIVE_BOOT_COMPLETED' permissions.txt; then exit 1; fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Moncho-Player-APK
+          path: |
+            android/app/build/outputs/apk/debug/app-debug.apk
+            permissions.txt
+          retention-days: 30
