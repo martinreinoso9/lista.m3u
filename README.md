@@ -20,10 +20,11 @@ para el token del workflow; no se necesitan claves personales en el codigo.
 
 ## Limitaciones
 
-- canales.m3u incluye solo URL completas sin DRM declarado ni tipo WEBVIEW.
+- canales.m3u incluye todos los canales y variantes, eliminando duplicados exactos.
+- Se identifican las entradas [DRM], [WEBVIEW] y [URL INCOMPLETA], aunque no reproduzcan.
 - catalogo_con_drm.m3u es un catalogo adicional; no garantiza reproduccion.
 - No se exportan claves o licencias DRM ni se renuevan tokens de acceso.
-- Las rutas relativas se omiten sin inventar un dominio de origen.
+- Las rutas relativas se conservan tal como fueron publicadas; requieren un servidor base que no se inventa.
 - La reproduccion no fue verificada; puede depender de cuenta, region o permisos.
 - Un M3U estatico no interpreta JSON. El generador ejecutado en GitHub lo convierte.
 - Un fallo de descarga impide publicar una actualizacion incompleta.
