@@ -31,12 +31,12 @@ function Generar {
         $key=$c.Nombre+'|'+$c.URL+'|'+$c.Tipo+'|'+($c.Headers | ConvertTo-Json -Compress)
         if($seen.ContainsKey($key)) { continue }; $seen[$key]=$true
         $web=($c.Tipo -eq 'WEBVIEW')
-        $estado=if(-not $c.Completa){'URL incompleta: omitido'}elseif($web){'WEBVIEW: pagina web, solo catalogo'}elseif($c.DRM){'DRM: solo catalogo, requiere acceso autorizado'}else{'Lista general: reproduccion sin verificar'}
+        $estado=if(-not $c.Completa){'URL incompleta: incluida tal como fue publicada'}elseif($web){'WEBVIEW: pagina web incluida'}elseif($c.DRM){'DRM incluido: requiere acceso autorizado'}else{'Lista general: reproduccion sin verificar'}
         $informe.Add([pscustomobject]@{Nombre=$c.Nombre;Categoria=$c.Categoria;Tipo=$c.Tipo;Estado=$estado;Fuente=$c.Fuente;URL=$c.URL})
-        if(-not $c.Completa) { continue }
         $nombre=$c.Nombre
         if($c.DRM){$nombre+=' [DRM]'}
         if($web){$nombre+=' [WEBVIEW]'}
+        if(-not $c.Completa){$nombre+=' [URL INCOMPLETA]'}
         $linea='#EXTINF:-1 tvg-logo="'+$c.Logo+'" group-title="'+$c.Categoria+'",'+$nombre
         $bloque=[System.Collections.Generic.List[string]]::new()
         $bloque.Add($linea)
@@ -47,8 +47,8 @@ function Generar {
             }
         }
         $bloque.Add($c.URL)
-        $catalogo.AddRange($bloque); $total++
-        if(-not $c.DRM -and -not $web){$lista.AddRange($bloque);$n++}
+        if($c.Completa){$catalogo.AddRange($bloque); $total++}
+        $lista.AddRange($bloque);$n++
     }
     $utf8=[System.Text.UTF8Encoding]::new($false)
     [IO.File]::WriteAllLines((Join-Path $dest 'canales.m3u'),$lista,$utf8)
