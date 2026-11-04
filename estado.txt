@@ -1,6 +1,6 @@
-Actualizado: 2026-11-04T01:13:47.4821001+00:00
+Actualizado: 2026-11-04T01:19:54.6485711+00:00
 Registros fuente: 852
 Entradas unicas: 774
-Lista general: 181
+Lista general: 774
 Catalogo con URL completa: 572
 No se verifico reproduccion. No se exportaron claves ni licencias DRM.
