@@ -4,7 +4,7 @@
     <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
     <uses-feature android:name="android.software.leanback" android:required="false" />
     <application android:theme="@android:style/Theme.Material.NoActionBar" android:label="Moncho Player" android:icon="@drawable/icon" android:banner="@drawable/banner" android:allowBackup="false" android:usesCleartextTraffic="true" android:supportsRtl="true">
-        <activity android:name=".MainActivity" android:exported="true" android:configChanges="orientation|screenSize|keyboardHidden">
+        <activity android:name=".MainActivity" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

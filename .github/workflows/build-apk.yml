@@ -6,7 +6,7 @@ on:
       - 'android/**'
       - '.github/workflows/build-apk.yml'
 permissions:
-  contents: read
+  contents: write
 jobs:
   apk:
     runs-on: ubuntu-latest
@@ -25,7 +25,11 @@ jobs:
           gradle-version: '8.9'
       - name: Compilar y revisar
         working-directory: android
-        run: gradle --no-daemon assembleDebug lintDebug
+        run: |
+          gradle --no-daemon assembleDebug lintDebug || {
+            cat app/build/intermediates/lint_intermediate_text_report/debug/lintReportDebug/lint-results-debug.txt 2>/dev/null || true
+            exit 1
+          }
       - name: Comprobar permisos del APK compilado
         run: |
           "$ANDROID_HOME/build-tools/35.0.0/aapt" dump permissions android/app/build/outputs/apk/debug/app-debug.apk > permissions.txt
@@ -38,3 +42,9 @@ jobs:
             android/app/build/outputs/apk/debug/app-debug.apk
             permissions.txt
           retention-days: 30
+      - name: Publicar APK descargable
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp android/app/build/outputs/apk/debug/app-debug.apk Moncho-Player.apk
+          gh release create "moncho-player-build-${GITHUB_RUN_NUMBER}" Moncho-Player.apk permissions.txt --target "$GITHUB_SHA" --title 'Moncho Player — versión de prueba' --notes 'APK de prueba compilado desde el código público. Catálogo Moncho, categorías, búsqueda, favoritos y reproducción HLS/DASH. Sin instalador de APK. No incluye acceso a DRM de terceros. Reproducción y navegación pendientes de prueba en dispositivo.' --latest

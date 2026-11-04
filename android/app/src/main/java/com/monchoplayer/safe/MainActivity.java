@@ -34,9 +34,9 @@ public class MainActivity extends Activity {
     private ArrayAdapter<String> adapter;
     private PlayerView video;
     private ExoPlayer player;
-    private LinearLayout controls, browser;
+    private LinearLayout controls, browser, sidebar, playback;
     private Channel current;
-    private boolean loading, fullscreen, stopped, destroyed;
+    private boolean loading, fullscreen, stopped, destroyed, landscape;
     private int generation;
     private static class Channel {
         String name, group, url, type;
@@ -50,10 +50,14 @@ public class MainActivity extends Activity {
         super.onCreate(state);
         prefs=getSharedPreferences("player",MODE_PRIVATE);
         favorites=new HashSet<>(prefs.getStringSet("favorites",Collections.emptySet()));
-        LinearLayout root=new LinearLayout(this);root.setOrientation(1);root.setPadding(16,12,16,8);root.setBackgroundColor(Color.rgb(14,22,36));
+        landscape=getResources().getConfiguration().orientation==android.content.res.Configuration.ORIENTATION_LANDSCAPE;
+        LinearLayout root=new LinearLayout(this);root.setOrientation(landscape?LinearLayout.HORIZONTAL:LinearLayout.VERTICAL);root.setPadding(16,12,16,8);root.setBackgroundColor(Color.rgb(14,22,36));
         setContentView(root);
         root.setOnApplyWindowInsetsListener((v,insets)->{v.setPadding(16+insets.getSystemWindowInsetLeft(),12+insets.getSystemWindowInsetTop(),16+insets.getSystemWindowInsetRight(),8+insets.getSystemWindowInsetBottom());return insets;});
-        controls=new LinearLayout(this); controls.setOrientation(1);root.addView(controls);
+        sidebar=new LinearLayout(this);sidebar.setOrientation(LinearLayout.VERTICAL);
+        playback=new LinearLayout(this);playback.setOrientation(LinearLayout.VERTICAL);
+        if(landscape){root.addView(sidebar,new LinearLayout.LayoutParams(0,-1,0.43f));root.addView(playback,new LinearLayout.LayoutParams(0,-1,0.57f));}
+        controls=new LinearLayout(this); controls.setOrientation(LinearLayout.VERTICAL);(landscape?sidebar:root).addView(controls);
         TextView title=new TextView(this);title.setText("MONCHO PLAYER");title.setTextSize(23);title.setTextColor(Color.rgb(79,224,182));controls.addView(title);
         LinearLayout buttons=new LinearLayout(this);controls.addView(buttons);
         button(buttons,"Actualizar",()->loadCatalog(true,null));
@@ -61,10 +65,11 @@ public class MainActivity extends Activity {
         button(buttons,"Pantalla",this::toggleFullscreen);
         groups=new Spinner(this);controls.addView(groups);
         search=new EditText(this);search.setSingleLine(true);search.setHint("Buscar canal");search.setTextColor(Color.WHITE);search.setHintTextColor(Color.LTGRAY);controls.addView(search);
-        now=new TextView(this);now.setText("Elegí un canal");now.setTextColor(Color.WHITE);root.addView(now);
-        video=new PlayerView(this);video.setKeepScreenOn(true);video.setUseController(true);root.addView(video,new LinearLayout.LayoutParams(-1,dp(210)));
-        status=new TextView(this);status.setTextColor(Color.LTGRAY);status.setTextSize(12);root.addView(status);
-        browser=new LinearLayout(this);browser.setOrientation(1);root.addView(browser,new LinearLayout.LayoutParams(-1,0,1));
+        LinearLayout surface=landscape?playback:root;
+        now=new TextView(this);now.setText("Elegí un canal");now.setTextColor(Color.WHITE);surface.addView(now);
+        video=new PlayerView(this);video.setKeepScreenOn(true);video.setUseController(true);surface.addView(video,new LinearLayout.LayoutParams(-1,landscape?0:dp(210),landscape?1:0));
+        status=new TextView(this);status.setTextColor(Color.LTGRAY);status.setTextSize(12);surface.addView(status);
+        browser=new LinearLayout(this);browser.setOrientation(LinearLayout.VERTICAL);(landscape?sidebar:root).addView(browser,new LinearLayout.LayoutParams(-1,0,1));
         list=new ListView(this);adapter=new ArrayAdapter<>(this,android.R.layout.simple_list_item_1,new ArrayList<>());list.setAdapter(adapter);browser.addView(list,new LinearLayout.LayoutParams(-1,-1));
         list.setOnItemClickListener((parent,v,pos,id)->play(shown.get(pos)));
         list.setOnItemLongClickListener((parent,v,pos,id)->{Channel c=shown.get(pos);if(!favorites.add(c.key()))favorites.remove(c.key());prefs.edit().putStringSet("favorites",favorites).apply();filter();return true;});
@@ -118,7 +123,7 @@ public class MainActivity extends Activity {
         MediaItem.Builder item=new MediaItem.Builder().setUri(Uri.parse(c.url));String path=Uri.parse(c.url).getPath();if(path!=null&&path.endsWith(".mpd"))item.setMimeType(MimeTypes.APPLICATION_MPD);else if(c.type.equalsIgnoreCase("HLS"))item.setMimeType(MimeTypes.APPLICATION_M3U8);
         player.setMediaItem(item.build());player.prepare();player.play();status.setText("Conectando…");
     }
-    private void toggleFullscreen(){fullscreen=!fullscreen;controls.setVisibility(fullscreen?View.GONE:View.VISIBLE);browser.setVisibility(fullscreen?View.GONE:View.VISIBLE);video.setLayoutParams(new LinearLayout.LayoutParams(-1,fullscreen?0:dp(210),fullscreen?1:0));}
+    private void toggleFullscreen(){fullscreen=!fullscreen;if(landscape){sidebar.setVisibility(fullscreen?View.GONE:View.VISIBLE);}else{controls.setVisibility(fullscreen?View.GONE:View.VISIBLE);browser.setVisibility(fullscreen?View.GONE:View.VISIBLE);video.setLayoutParams(new LinearLayout.LayoutParams(-1,fullscreen?0:dp(210),fullscreen?1:0));}}
     private void releasePlayer(){if(player!=null){video.setPlayer(null);player.release();player=null;}}
     @Override public void onBackPressed(){if(fullscreen)toggleFullscreen();else super.onBackPressed();}
     @Override protected void onStop(){stopped=true;generation++;releasePlayer();super.onStop();}
