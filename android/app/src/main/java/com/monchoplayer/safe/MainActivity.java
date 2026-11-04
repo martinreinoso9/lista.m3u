@@ -20,6 +20,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.*;
 import java.util.concurrent.*;
 
+@androidx.media3.common.util.UnstableApi
 public class MainActivity extends Activity {
     private static final String BASE="https://raw.githubusercontent.com/monchotv/MonchoApps/main/";
     private final ExecutorService io=Executors.newSingleThreadExecutor();
